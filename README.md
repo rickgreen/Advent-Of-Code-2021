@@ -1,0 +1,1 @@
+This project will contain solutions to puzzles from Advent Of Code 2021
